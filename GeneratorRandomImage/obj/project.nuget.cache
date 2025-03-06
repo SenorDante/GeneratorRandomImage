@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bda2tMFf7g4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\sixlabors.imagesharp\\3.1.6\\sixlabors.imagesharp.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

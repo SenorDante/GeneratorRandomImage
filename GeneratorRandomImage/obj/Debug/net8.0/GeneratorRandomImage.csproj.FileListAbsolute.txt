@@ -1,0 +1,17 @@
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\bin\Debug\net8.0\GeneratorRandomImage.exe
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\bin\Debug\net8.0\GeneratorRandomImage.deps.json
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\bin\Debug\net8.0\GeneratorRandomImage.runtimeconfig.json
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\bin\Debug\net8.0\GeneratorRandomImage.dll
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\bin\Debug\net8.0\GeneratorRandomImage.pdb
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.AssemblyInfo.cs
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\Generato.2DF55D7E.Up2Date
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.dll
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\refint\GeneratorRandomImage.dll
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.pdb
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\GeneratorRandomImage.genruntimeconfig.cache
+C:\Users\georg\source\repos\GeneratorRandomImage\GeneratorRandomImage\obj\Debug\net8.0\ref\GeneratorRandomImage.dll
