@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\georg\\source\\repos\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\lumbago\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\georg\\source\\repos\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\lumbago\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\source\\repos\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\lumbago\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj",
         "projectName": "GeneratorRandomImage",
-        "projectPath": "C:\\Users\\georg\\source\\repos\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\lumbago\\GeneratorRandomImage\\GeneratorRandomImage\\GeneratorRandomImage.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\source\\repos\\GeneratorRandomImage\\GeneratorRandomImage\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\lumbago\\GeneratorRandomImage\\GeneratorRandomImage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
           "dependencies": {
             "SixLabors.ImageSharp": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[3.1.7, )"
             }
           },
           "imports": [

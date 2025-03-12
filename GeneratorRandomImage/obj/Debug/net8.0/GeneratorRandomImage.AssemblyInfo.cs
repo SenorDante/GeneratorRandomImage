@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeneratorRandomImage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5244433114dc380e8f3d0359c6f686ab662cf62f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeneratorRandomImage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeneratorRandomImage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

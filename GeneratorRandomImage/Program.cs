@@ -7,7 +7,18 @@ class Program
     {
         int width = 1024;
         int height = 1024;
+        string fileName = "";
+        string letterSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghIjklmnopqrstuvwxyz";
         Random rand = new Random();
+
+        for (int i = 0; i < 8; i++)
+        {
+            if (i % 2 == 0)
+                fileName += letterSet[rand.Next(0, 52)];
+            else
+                fileName += Convert.ToString(rand.Next(0,10));
+        }
+        Console.WriteLine(fileName);
 
         using (Image<Rgba32> image = new Image<Rgba32>(width, height))
         {
@@ -19,8 +30,9 @@ class Program
                 }
             }
 
-            Console.Write("Введите путь для сохранения изображения (с расширением .png): ");
+            Console.Write("Введите путь для сохранения изображения: ");
             string filePath = Console.ReadLine();
+            filePath += $"\\{fileName}.png";
 
             try
             {
